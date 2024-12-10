@@ -1,0 +1,22 @@
+var dado1 = prompt("Digite o primeiro dado:");
+var dado2 = prompt("Digite o segundo dado:");
+var dado3 = prompt("Digite o terceiro dado:");
+var dado4 = prompt("Digite o quarto dado:");
+var dado5 = prompt("Digite o quinto dado:");
+var dado6 = prompt("Digite o sexto dado:");
+var dado7 = prompt("Digite o sétimo dado:");
+var dado8 = prompt("Digite o oitavo dado:");
+var dado9 = prompt("Digite o nono dado:");
+var dado10 = prompt("Digite o décimo dado:");
+
+console.log("Os dados coletados foram:");
+console.log("Dado 1: " + dado1);
+console.log("Dado 2: " + dado2);
+console.log("Dado 3: " + dado3);
+console.log("Dado 4: " + dado4);
+console.log("Dado 5: " + dado5);
+console.log("Dado 6: " + dado6);
+console.log("Dado 7: " + dado7);
+console.log("Dado 8: " + dado8);
+console.log("Dado 9: " + dado9);
+console.log("Dado 10: " + dado10);

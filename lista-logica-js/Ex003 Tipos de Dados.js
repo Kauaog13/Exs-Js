@@ -1,0 +1,10 @@
+let nome = 'João'; // caractere
+let sobrenome = 'Silva'; // caractere
+let idade = 25; // inteiro
+let altura = 1.75; // real
+let peso = 70.5; // real
+let possuiFaculdade = true; // logico
+let possuiVeiculo = false; // logico
+let comidaFavorita = 'Pizza'; // caractere
+let corFavorita = 'Azul'; // caractere
+let musicaFavorita = 'Rock'; // caractere
